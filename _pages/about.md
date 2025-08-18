@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Personal Introductions"
+title: "Personal Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <p style="text-align: justify; text-justify: inter-ideograph;">
-Hello everyone, this is my personal website. I am currently conducting research in the field of atmospheric electricity under the guidance of Dr. Pu at Nanjing University. My usual hobbies are listening to music, play badminton and table tennis. 
+Hi everyone, this is my personal website. I am currently conducting research in the field of atmospheric electricity under the guidance of Dr. Pu at Nanjing University. My usual hobbies are listening to music, play badminton and table tennis. 
 I also enjoy reading novels and hiking. My favorite foods are beef soup and fried potato chips from my hometown. Welcome everyone to contact me and exchange research progress and insights in the field of atmospheric electricity. I will work hard
 and keep working hard!
 </p>
